@@ -2,10 +2,7 @@
 
 int main()
 {
-<<<<<<< HEAD
-    printf("this is a change")
-=======
->>>>>>> main
+    printf("this is a change");
     printf("Hello github");
     return 0;
 }
